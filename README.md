@@ -65,4 +65,4 @@ Contribuições são sempre bem-vindas!
 
 Feito por Ian Procópio. Entre em contato!
 
-[![LinkedIn Badge](https://www.linkedin.com/in/ian-proc%C3%B3pio-0012b239b/)
+[![LinkedIn](https://img.shields.io/badge/-Ian_Procópio-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-proc%C3%B3pio-0012b239b/)
